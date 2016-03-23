@@ -15,6 +15,6 @@
   "author": "azer",
   "license": "BSD",
   "dependencies": {
-    "package-path": "0.0.x"
+    "package-path": "azer/package-path"
   }
 }
